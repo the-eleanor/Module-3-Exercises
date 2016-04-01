@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>33</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+            
+			  <p>been gradually reduced by the operation of laws origin-ally designed for their comfort and protection. I know also that many slaves pass their lives in comparative ease, and seem to be unconscious of their bonds, and that the <i>most wretched</i> of our paupers might envy the allotment of the <i>happy</i> Negro. <interp key="The working conditions of the English working class were extremely rough, and this may actually be a valid comparison, although the rest of this passage makes a solid argument that the English poor still had more rights." n="Picard, Liza. Victorian Britain: The Working Class and the Poor. British Library" cert="medium" ref="http://www.bl.uk/victorian-britain/articles/the-working-classes-and-the-poor"> This is not, however, insituting a fair comparison, to bring the opposite ex-tremes of the two classes in competition.</interp> Let us take a view of some particulars which operate generally.</p>
+			  <p><interp key="Although not actively threatened in the workplace, the fear of going hungry may have been a motivating factor for the harsh work." n="Picard, Liza. Victorian Britain: The Working Class and the Poor. British Library" cert="unknown" ref="http://www.bl.uk/victorian-britain/articles/the-working-classes-and-the-poor">"In England, exertion is not the result of personal fear;</interp> in Virginia, it is the prevailing stimulus.</p>
+			  <p>"The slave is punished for mere <i>indolence</i>, at the discretion of an <i>overseer:</i> the peasant is only punished by the law, when guilty of a crime.</p>
+			  <p>"In England, the labourer and his employer are equal in the eye of the law: here the law affords the slave no protection, unless a White man gives testimony in his favour.</p>
+			  <p>"Here, any White man may insult a Black man with impunity; whilst the English peasant, should he recieve a blow from his employer, might and would return it with interest, and afterwards have his remedy at law for the aggression. </p>
+			  <p>"The testimony of a peasant weighs as much as that of a lord in a court of justice; but the testimony of a slave is never admitted at all, in a case where a White man is opposed to him.</p>
+			  <p>"A few weeks ago, in the streets of <placeName key="Richmond, Virginia" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Richmond%2C_Virginia&amp;params=37_32_N_77_28_W_type:city_region:US-VA"> Richmond,</placeName> a friend of mine saw a White boy wantonly throw quick-lime in the face of a Negro-man. The man shook the lime from his jacket, and some of it accidentally reached the eyes of the young brute. This casual retaliation excited the resentment of the brother of the boy, who complained to the slave's owner, and actually had him punished with thirty lashes. This would not have happened to an English peasant.</p>
+			
+				
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
